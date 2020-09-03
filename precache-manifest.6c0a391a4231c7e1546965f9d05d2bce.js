@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "49c388aac68331dbe49f61c9234553f9",
+    "revision": "b9e8aac38a5bbcdf6169f584f11aad97",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
-    "revision": "c33d5ffd34fd31bbc818",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.1f9fb9d8.chunk.css"
+    "revision": "d4fea3a6404e4a04997c",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.b80e216f.chunk.css"
   },
   {
     "revision": "152bc16ba2ae468d96fc",
@@ -16,16 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.e527f460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c33d5ffd34fd31bbc818",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.320693b7.chunk.js"
+    "revision": "d4fea3a6404e4a04997c",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.0d21888e.chunk.js"
   },
   {
     "revision": "da9537243b31e41dd621",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js"
   },
   {
-    "revision": "02034804d8bc5032c2471ccf7caa66e4",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/footer-bg.02034804.jpg"
+    "revision": "16f23d65de098e407bd77b0c6a58bc79",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/body-bg.16f23d65.jpg"
+  },
+  {
+    "revision": "b4b4dc565f1936c04fcf332d7f92ad98",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/footer-bg.b4b4dc56.jpg"
   },
   {
     "revision": "ad098fb8629775770123b58cb476d815",
