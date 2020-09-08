@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6afe6a68777743db43e176302ad9c6e8",
+    "revision": "7f42cbe19dcc035071f161fb31b4f8f1",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
-    "revision": "daab2cc62be5881d342b",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.d79ca066.chunk.css"
+    "revision": "fa6b0537b20c24b41516",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.9d857be2.chunk.css"
   },
   {
     "revision": "152bc16ba2ae468d96fc",
@@ -16,12 +16,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.e527f460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "daab2cc62be5881d342b",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.f86b5f1e.chunk.js"
+    "revision": "fa6b0537b20c24b41516",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.41f2e1d0.chunk.js"
   },
   {
     "revision": "da9537243b31e41dd621",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js"
+  },
+  {
+    "revision": "8daf0546ac7662756f96d34988f75b4d",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Bold.8daf0546.otf"
+  },
+  {
+    "revision": "be29f3c5ccd30b97f9c394a02c9ce5d7",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Regular.be29f3c5.otf"
   },
   {
     "revision": "a4ea393abe41e11b7aa8add26072c628",
