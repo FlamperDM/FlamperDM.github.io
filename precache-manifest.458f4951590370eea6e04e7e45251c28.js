@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88b56fa893f5c629153b5d839027eb0a",
+    "revision": "199e4188de0bcb01ac384f92c5082af6",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
-    "revision": "862f0c7d1ea81ca4345a",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.263bc7e5.chunk.css"
+    "revision": "48cad2f6050ff4958b16",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.d79ca066.chunk.css"
   },
   {
-    "revision": "152bc16ba2ae468d96fc",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.e527f460.chunk.js"
+    "revision": "308dfd693a51d8a97dc3",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.4efae9f9.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.e527f460.chunk.js.LICENSE.txt"
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.4efae9f9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "862f0c7d1ea81ca4345a",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.99141f1d.chunk.js"
+    "revision": "48cad2f6050ff4958b16",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.24d8227c.chunk.js"
   },
   {
     "revision": "da9537243b31e41dd621",
