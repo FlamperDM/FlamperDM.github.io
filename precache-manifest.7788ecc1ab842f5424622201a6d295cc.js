@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d6e5d19f8c9bf83eddf9888fd331c99",
+    "revision": "88b56fa893f5c629153b5d839027eb0a",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
-    "revision": "4afd63689c59624f1d3d",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.f0bc9226.chunk.css"
+    "revision": "862f0c7d1ea81ca4345a",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.263bc7e5.chunk.css"
   },
   {
     "revision": "152bc16ba2ae468d96fc",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.e527f460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4afd63689c59624f1d3d",
+    "revision": "862f0c7d1ea81ca4345a",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.99141f1d.chunk.js"
   },
   {
