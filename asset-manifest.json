@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.ce8f776e.chunk.css",
-    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.17b406f9.chunk.js",
-    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.17b406f9.chunk.js.map",
+    "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.81a1ccd7.chunk.css",
+    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.1e8daac0.chunk.js",
+    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.1e8daac0.chunk.js.map",
     "runtime-main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js",
     "runtime-main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js.map",
-    "static/js/2.801dd274.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.801dd274.chunk.js",
-    "static/js/2.801dd274.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.801dd274.chunk.js.map",
+    "static/js/2.fd91d564.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.fd91d564.chunk.js",
+    "static/js/2.fd91d564.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.fd91d564.chunk.js.map",
     "index.html": "https://flamperdm.github.io/FlamperDM.github.io/index.html",
-    "precache-manifest.7d466612791c0172b428a87223e24617.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.7d466612791c0172b428a87223e24617.js",
+    "precache-manifest.d4a4bac4b89e2562768c62d23a616b9c.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.d4a4bac4b89e2562768c62d23a616b9c.js",
     "service-worker.js": "https://flamperdm.github.io/FlamperDM.github.io/service-worker.js",
-    "static/css/main.ce8f776e.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.ce8f776e.chunk.css.map",
-    "static/js/2.801dd274.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.801dd274.chunk.js.LICENSE.txt",
+    "static/css/main.81a1ccd7.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.81a1ccd7.chunk.css.map",
+    "static/js/2.fd91d564.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.fd91d564.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Regular.be29f3c5.otf",
     "static/media/base.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/body-bg.a4ea393a.jpg",
     "static/media/contact.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/footer-bg.b4b4dc56.jpg",
@@ -21,12 +21,16 @@
     "static/media/logo-carbonBlack.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/logo-carbonBlack.c28e5689.jpg",
     "static/media/logo-hackDiversity.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/logo-hackDiversity.4165a032.jpg",
     "static/media/logo-xrTerra.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/logo-xrTerra.d2e8e2fe.jpg",
-    "static/media/medium.svg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/medium.42b5df92.svg"
+    "static/media/medium.svg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/medium.42b5df92.svg",
+    "static/media/photo.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/photo.8d3206ef.jpg",
+    "static/media/survivalGame.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/survivalGame.1a28fcf6.jpg",
+    "static/media/vrcrane.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/vrcrane.83554395.jpg",
+    "static/media/witchpires.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/witchpires.00e85aa2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.9d87efbb.js",
-    "static/js/2.801dd274.chunk.js",
-    "static/css/main.ce8f776e.chunk.css",
-    "static/js/main.17b406f9.chunk.js"
+    "static/js/2.fd91d564.chunk.js",
+    "static/css/main.81a1ccd7.chunk.css",
+    "static/js/main.1e8daac0.chunk.js"
   ]
 }

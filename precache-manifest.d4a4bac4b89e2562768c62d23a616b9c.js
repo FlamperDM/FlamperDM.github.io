@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "de120ce03648b503027fd77d579a81c6",
+    "revision": "cd6227229a33a61247dfa3998c43b97d",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
-    "revision": "5f5b4394b5861ad8a69a",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.ce8f776e.chunk.css"
+    "revision": "61964b42fb57470afd17",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.81a1ccd7.chunk.css"
   },
   {
-    "revision": "bca7071a06989d642e9f",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.801dd274.chunk.js"
+    "revision": "9eef3d9c09a95c19edd9",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.fd91d564.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.801dd274.chunk.js.LICENSE.txt"
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.fd91d564.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5f5b4394b5861ad8a69a",
-    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.17b406f9.chunk.js"
+    "revision": "61964b42fb57470afd17",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.1e8daac0.chunk.js"
   },
   {
     "revision": "da9537243b31e41dd621",
@@ -66,5 +66,21 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "42b5df923faede8bef9333faa6ebd246",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/medium.42b5df92.svg"
+  },
+  {
+    "revision": "8d3206ef879a2b85f70ed6f005e66b74",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/photo.8d3206ef.jpg"
+  },
+  {
+    "revision": "1a28fcf63e3122cab40afebae018b63e",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/survivalGame.1a28fcf6.jpg"
+  },
+  {
+    "revision": "835543952174f6fe5d2c8cd87660b28a",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/vrcrane.83554395.jpg"
+  },
+  {
+    "revision": "00e85aa2a39ddde7ce733377bc965111",
+    "url": "https://flamperdm.github.io/FlamperDM.github.io/static/media/witchpires.00e85aa2.jpg"
   }
 ]);
