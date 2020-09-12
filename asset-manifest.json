@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.87632529.chunk.css",
-    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.a2fce834.chunk.js",
-    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.a2fce834.chunk.js.map",
+    "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.262e5039.chunk.css",
+    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.f00af41d.chunk.js",
+    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.f00af41d.chunk.js.map",
     "runtime-main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js",
     "runtime-main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js.map",
     "static/js/2.641e2dde.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.641e2dde.chunk.js",
     "static/js/2.641e2dde.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.641e2dde.chunk.js.map",
     "index.html": "https://flamperdm.github.io/FlamperDM.github.io/index.html",
-    "precache-manifest.257c51eef77303a470f98a86e6b35687.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.257c51eef77303a470f98a86e6b35687.js",
+    "precache-manifest.c6cb79341cd7794acd93c99666c13a14.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.c6cb79341cd7794acd93c99666c13a14.js",
     "service-worker.js": "https://flamperdm.github.io/FlamperDM.github.io/service-worker.js",
-    "static/css/main.87632529.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.87632529.chunk.css.map",
+    "static/css/main.262e5039.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.262e5039.chunk.css.map",
     "static/js/2.641e2dde.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.641e2dde.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Regular.be29f3c5.otf",
     "static/media/base.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/body-bg.a4ea393a.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.9d87efbb.js",
     "static/js/2.641e2dde.chunk.js",
-    "static/css/main.87632529.chunk.css",
-    "static/js/main.a2fce834.chunk.js"
+    "static/css/main.262e5039.chunk.css",
+    "static/js/main.f00af41d.chunk.js"
   ]
 }
