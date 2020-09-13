@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.1a6bf282.chunk.css",
-    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.6147c2ce.chunk.js",
-    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.6147c2ce.chunk.js.map",
+    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.1a3c4fdc.chunk.js",
+    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.1a3c4fdc.chunk.js.map",
     "runtime-main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js",
     "runtime-main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js.map",
-    "static/js/2.b93b1fff.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.b93b1fff.chunk.js",
-    "static/js/2.b93b1fff.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.b93b1fff.chunk.js.map",
+    "static/js/2.112e71b4.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.112e71b4.chunk.js",
+    "static/js/2.112e71b4.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.112e71b4.chunk.js.map",
     "index.html": "https://flamperdm.github.io/FlamperDM.github.io/index.html",
-    "precache-manifest.0fd1daf2e4426b7df9a653e508aca9d2.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.0fd1daf2e4426b7df9a653e508aca9d2.js",
+    "precache-manifest.6f53847b5125b2f2998ce475ccf3cdfc.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.6f53847b5125b2f2998ce475ccf3cdfc.js",
     "service-worker.js": "https://flamperdm.github.io/FlamperDM.github.io/service-worker.js",
     "static/css/main.1a6bf282.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.1a6bf282.chunk.css.map",
-    "static/js/2.b93b1fff.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.b93b1fff.chunk.js.LICENSE.txt",
+    "static/js/2.112e71b4.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.112e71b4.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Regular.be29f3c5.otf",
     "static/media/base.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/body-bg.a4ea393a.jpg",
     "static/media/contact.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/footer-bg.b4b4dc56.jpg",
@@ -29,8 +29,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.9d87efbb.js",
-    "static/js/2.b93b1fff.chunk.js",
+    "static/js/2.112e71b4.chunk.js",
     "static/css/main.1a6bf282.chunk.css",
-    "static/js/main.6147c2ce.chunk.js"
+    "static/js/main.1a3c4fdc.chunk.js"
   ]
 }
