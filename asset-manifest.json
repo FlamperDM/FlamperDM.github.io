@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.1a6bf282.chunk.css",
-    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.c945482f.chunk.js",
-    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.c945482f.chunk.js.map",
-    "runtime-main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js",
-    "runtime-main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.9d87efbb.js.map",
-    "static/js/2.79c4fa45.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.79c4fa45.chunk.js",
-    "static/js/2.79c4fa45.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.79c4fa45.chunk.js.map",
+    "main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.3648efcf.chunk.js",
+    "main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/main.3648efcf.chunk.js.map",
+    "runtime-main.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.ea95f2f1.js",
+    "runtime-main.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/runtime-main.ea95f2f1.js.map",
+    "static/js/2.35ff7003.chunk.js": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.35ff7003.chunk.js",
+    "static/js/2.35ff7003.chunk.js.map": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.35ff7003.chunk.js.map",
     "index.html": "https://flamperdm.github.io/FlamperDM.github.io/index.html",
-    "precache-manifest.b21f313ab96a48cb0f901eeaa9d295fe.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.b21f313ab96a48cb0f901eeaa9d295fe.js",
+    "precache-manifest.a7c826a19188a550749f22a5ce874526.js": "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.a7c826a19188a550749f22a5ce874526.js",
     "service-worker.js": "https://flamperdm.github.io/FlamperDM.github.io/service-worker.js",
     "static/css/main.1a6bf282.chunk.css.map": "https://flamperdm.github.io/FlamperDM.github.io/static/css/main.1a6bf282.chunk.css.map",
-    "static/js/2.79c4fa45.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.79c4fa45.chunk.js.LICENSE.txt",
+    "static/js/2.35ff7003.chunk.js.LICENSE.txt": "https://flamperdm.github.io/FlamperDM.github.io/static/js/2.35ff7003.chunk.js.LICENSE.txt",
     "static/media/fonts.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/LEMONMILK-Regular.be29f3c5.otf",
     "static/media/base.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/body-bg.a4ea393a.jpg",
     "static/media/contact.css": "https://flamperdm.github.io/FlamperDM.github.io/static/media/footer-bg.b4b4dc56.jpg",
@@ -28,9 +28,9 @@
     "static/media/witchpires.jpg": "https://flamperdm.github.io/FlamperDM.github.io/static/media/witchpires.00e85aa2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d87efbb.js",
-    "static/js/2.79c4fa45.chunk.js",
+    "static/js/runtime-main.ea95f2f1.js",
+    "static/js/2.35ff7003.chunk.js",
     "static/css/main.1a6bf282.chunk.css",
-    "static/js/main.c945482f.chunk.js"
+    "static/js/main.3648efcf.chunk.js"
   ]
 }
