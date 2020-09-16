@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.38b72d1b8e5dab8becae6ece6ea7fe87.js"
+  "https://flamperdm.github.io/FlamperDM.github.io/precache-manifest.62e3d5d1d8af33fe59aeb7deb8aa2a42.js"
 );
 
 self.addEventListener('message', (event) => {
