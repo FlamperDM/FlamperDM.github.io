@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "435b6a17a52b6fec89cb6f4fa5980b3d",
+    "revision": "47b2b2b9f8d7452987de7edba4e3d59c",
     "url": "https://flamperdm.github.io/FlamperDM.github.io/index.html"
   },
   {
